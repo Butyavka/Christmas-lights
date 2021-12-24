@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Christmas-lights/static/css/main.6c5c2175.css",
+    "main.js": "/Christmas-lights/static/js/main.dc0d7304.js",
+    "index.html": "/Christmas-lights/index.html",
+    "main.6c5c2175.css.map": "/Christmas-lights/static/css/main.6c5c2175.css.map",
+    "main.dc0d7304.js.map": "/Christmas-lights/static/js/main.dc0d7304.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c5c2175.css",
+    "static/js/main.dc0d7304.js"
+  ]
+}
